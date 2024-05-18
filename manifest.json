@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "uuid": "b01f539e-da8f-4d14-8774-99a2e0767ff7",
+        "name": "Piell's Textures",
+        "description": "My first texture pack atempt! (May not contain actual textures).",
+        "min_engine_version": [
+            1,
+            19,
+            1
+        ], "version":[
+            1,
+            0,
+            0
+        ]
+    },"modules": [
+        {
+          "description": "Has a sand texture.",
+          "type": "resources",
+          "uuid": "e2742a3c-1053-4b58-a5bd-302a821510b5",
+          "version": [1, 0, 0]
+        }
+      ]
+}
